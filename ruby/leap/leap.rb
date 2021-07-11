@@ -4,4 +4,3 @@ class Year
   end
 end
 
-p Year.leap?(2100)
